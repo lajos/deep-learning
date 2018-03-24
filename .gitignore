@@ -7,6 +7,10 @@ face_generation/data/
 
 .ipynb_checkpoints/
 
+intro-to-tensorflow/notMNIST.pickle                                                                                                                                                                                                              
+intro-to-tensorflow/notMNIST_test.zip                                                                                                                                                                                                            
+intro-to-tensorflow/notMNIST_train.zip                                                                                                                                                                                                           
+misc/ 
 
 *.pyc
 *.p
