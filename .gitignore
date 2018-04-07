@@ -4,6 +4,10 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+embeddings/checkpoints/                                                                                             
+transfer-learning/codes                                                                                             
+transfer-learning/labels                                                                                            
+transfer-learning/tensorflow-vgg/     
 
 .ipynb_checkpoints/
 
