@@ -11,10 +11,14 @@ transfer-learning/tensorflow-vgg/
 
 .ipynb_checkpoints/
 
-intro-to-tensorflow/notMNIST.pickle                                                                                                                                                                                                              
-intro-to-tensorflow/notMNIST_test.zip                                                                                                                                                                                                            
-intro-to-tensorflow/notMNIST_train.zip                                                                                                                                                                                                           
+intro-to-tensorflow/notMNIST.pickle 
+intro-to-tensorflow/notMNIST_test.zip
+intro-to-tensorflow/notMNIST_train.zip
 misc/ 
+tv-script-generation/checkpoint                                                                                     
+tv-script-generation/save.data-00000-of-00001                                                                       
+tv-script-generation/save.index                                                                                     
+tv-script-generation/save.meta  
 
 *.pyc
 *.p
